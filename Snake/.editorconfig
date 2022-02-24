@@ -1,0 +1,4 @@
+﻿[*.{cs,vb}]
+
+# IDE0003: Nitelemeyi kaldır
+dotnet_style_qualification_for_event = true
